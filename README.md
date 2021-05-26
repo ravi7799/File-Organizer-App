@@ -9,7 +9,7 @@ This is a Command Line App.
   ##  fillo tree 'directory_path'     ==> for using tree command in a folder
   ##  fillo organize 'directory_path'     ==> for organizing a particular directory
 
-[.] Help
-[.] Organize
-[.] Tree
-[.] Global
+[ ] Help
+[ ] Organize
+[ ] Tree
+[ ] Global
