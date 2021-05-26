@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 var inputArr=process.argv.slice(2);
+
 const fs=require('fs');
 const path=require('path');
 
