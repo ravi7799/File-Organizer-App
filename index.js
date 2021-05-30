@@ -12,9 +12,9 @@ const organizeObj=require('./commands/organize');
 // console.log(inputArr);
 
 //options that are possible :-
-//node index.js help
-//node index.js tree 'directory_path'
-//node index.js organize 'directory_path'
+//fillo help
+//fillo tree 'directory_path'
+//fillo organize 'directory_path'
 
 var command=inputArr[0];
 
